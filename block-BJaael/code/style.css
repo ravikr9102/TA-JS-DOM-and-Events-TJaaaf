@@ -33,3 +33,22 @@ img {
   max-width: 100%;
   height: auto;
 }
+body{
+  background-color: #F2F4F8;
+}
+
+.heading{
+  text-align: center;
+}
+.boxes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+.box{
+  width: 4rem;
+  height: 4rem;
+  border: 1px solid black;
+}
