@@ -91,3 +91,12 @@ input[type='text'] {
 .terms {
   display: inline-block;
 }
+
+.display{
+  width: 100px;
+  height: 100px;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
